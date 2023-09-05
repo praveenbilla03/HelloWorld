@@ -1,4 +1,5 @@
 //import java.math.BigDecimal;
+package org.studyeasy;
 
 public class Hello {
 
@@ -28,7 +29,10 @@ public class Hello {
 //		String str = new String("Hello World");
 //		System.out.println(str);
 		
+		Test ts = new Test();
 		
+		String str = ts.toString();
+		System.out.println(str);
 	}
 
 }
