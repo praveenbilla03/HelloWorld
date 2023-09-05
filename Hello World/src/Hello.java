@@ -3,6 +3,8 @@
 public class Hello {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Hello World");
 /*		int value1 = 9;
 		float value2 = 9f/7f;
 		double value3 = 9f/7f;
